@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "name": "Brandon Schamberger",
+      "id": 1
+    },
+    {
+      "name": "Lynda Heller I",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Bespoke Rubber Pizza",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Plastic Shirt",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Cotton Pants",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "title": "Incredible Frozen Table",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "Luxurious Bronze Pants",
+      "id": 5
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2352616916910080",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6550477867057152",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4986720825114624",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4969059336585216",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3184520037662720",
+      "id": 5
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5014002094571520",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5735496286208000",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2174062421868544",
+      "id": 8
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5563360827408384",
+      "id": 9
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3368844697534464",
+      "id": 10
+    }
+  ]
+}
